@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+      <meta charset="UTF-8">
+      <title>Lab 1, Exercise 1</title>
+  </head> 
+  <body>
+	<h1> This is Lab 1, Exercise 1</h1>
+	<br>
+	<p>The previous line is formatted using the Header 1 h1 tag</p>
+	<br>
+	<p>Note: h1 is only used one in a page</p>
+	<br>
+	<p>The previous 2 lines and this one are formatted as Paragraph text p</p>
+	<br>
+	<h2>1.1 This is a section of the document (formatted with h2)</h2>
+	<br>
+	<p>This is a paragraph containing the content of subsection 1.1</p>
+	<br>
+	<h3>1.1.1 This is a subsection of 1.1 (formatted with h3)</h3>
+	<br>
+	<p>This is a paragraph containing the content of subsection 1.1.1</p>
+	<p>This is a new line, in the same paragraph - the line break was added using a break tag</p>
+	<br>
+	<h2>1.2 Another section (h2 again)</h2>
+	<br>
+	<p>Next an unsorted list - <strong>defined using the ul tag and li tag for each list item.</strong></p>
+	<br>
+	<ul>
+	<li>First item in the list</li>
+	<li>Next item</li>
+	<li>etc.</li>
+	<li>etc.</li>
+	</ul>
+	<br>
+	<p>A link to the next page:<a href=“page2.html”>./page 2</a></p>
+  </body> 
+</html> 
